@@ -67,5 +67,5 @@ This project is a robust backend system designed to handle real-time stock price
 
 ## Contact
 
-- **Author:** Aditya Gupta
-- **Email:** your.email@example.com
+- **Author:** Danish Sarwar
+- **Email:** danish.sharwar@gmail.com
